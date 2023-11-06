@@ -46,12 +46,12 @@ Project: Maven based project.
  
 ## Dependencies Used
  
-1. <dependency>
-<groupId>javax.servlet</groupId>
-<artifactId>servlet-api</artifactId>
-<version>2.5</version>
-<scope>provided</scope>
-</dependency>
+1. <dependency
+    <groupId>javax.servlet</groupId>
+    <artifactId>servlet-api</artifactId>
+    <version>2.5</version>
+    <scope>provided</scope>
+   </dependency>
 ---------------------------------
  
 2.<dependency>
